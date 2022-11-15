@@ -1,0 +1,79 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin-bottom: 500px;    
+  
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+}
+.first-step{
+    display: flex;
+    padding-left: 5%;
+    margin-top: 1%;
+}
+.width-fix{
+    width: 30%;  
+}
+.width-fix h1{
+border-left: 3px solid green;
+}
+.width-fix img{
+    width: 70%;
+    padding-left: 50%;
+}
+.width-fix p{
+text-align: justify;
+}
+.color-2022{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(green,grey);
+border-radius: 5px;
+padding: 5px 10px;
+}
+.card-1{
+    width: 25%;
+    margin: 60px;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color:seashell;
+}
+.card-3{
+    width: 25%;
+    margin: 60px;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color:#FFF4D6;
+}
+.card-image-1 img{
+    width: 100%;
+}
+.main{
+    display: flex;
+    
+}
+.card-2{
+    width: 25%;
+    margin: 60px;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color:snow;
+}
+
+
+
