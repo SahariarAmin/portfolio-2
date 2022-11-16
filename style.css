@@ -1,6 +1,6 @@
 body{
     font-family: 'PT Serif', serif;
-    margin-bottom: 500px;    
+    
   
 }
 h1{
@@ -12,20 +12,23 @@ h2{
 .first-step{
     display: flex;
     padding-left: 5%;
-    margin-top: 1%;
+  
 }
 .width-fix{
     width: 30%;  
+    margin-top: 1%;
 }
 .width-fix h1{
 border-left: 3px solid green;
 }
 .width-fix img{
-    width: 70%;
+    width: 80%;
     padding-left: 50%;
+    margin: 0px;
 }
 .width-fix p{
 text-align: justify;
+word-spacing:0.3em; ;
 }
 .color-2022{
     text-align: center;
@@ -38,7 +41,7 @@ text-align: justify;
 text-decoration: none;
 background-image: linear-gradient(green,grey);
 border-radius: 5px;
-padding: 5px 10px;
+padding: 10px 10px;
 }
 .card-1{
     width: 25%;
@@ -72,8 +75,100 @@ padding: 5px 10px;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
-    background-color:snow;
+    background-color:snow;}
+
+
+.third-pic img{
+    width: 80%;
+    border-radius:30px;
+    padding-left: 10%;
+background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat ;
+    background-position: left;
+    background-size:250px;
+    margin-left: 70px;
+
+    
+}
+.third-part{
+    display: flex;
+    margin-right:50px;
+}
+.third-div{
+    width: 40%;
+   margin-right: 20px;
+   text-align: justify;
+   font-family:Arial, Helvetica, sans-serif
+   word-spacing:0.4em;
+   
+}
+.fourth-part{
+ 
+  font-family:Arial, Helvetica, sans-serif;
+  display: flex;
+ 
+}
+.fourth-pic img{
+width: 50%;
+padding-left: 30%;
+
+}
+.fourth-div{
+    width: 40%;
+    text-align: justify;
+    margin-left: 150px;
+    word-spacing:0.3em;
+    
+}
+.fifth-title{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fifth-part{
+             font-family:Verdana, Geneva, Tahoma, sans-serif;
+             display: flex;}
+.fifth-page{
+    width: 40%;
+    padding-right: 20%;
+    word-spacing: 0.3em;
+   
+    
+  
+}
+.fifth-page img{
+    width: 80%;
+    margin-left: 40%;
+    background-image: url(images/shapes/shape-2.png) ,url(images/shapes/shape-6.png);
+   background-position: top left,right ;
+   background-size: 200px,200px;
+   background-repeat: no-repeat;
+   padding-bottom: 10%;
+   padding-left: 6%;
+   
+}   
+.fift-page p{
+    margin-top:30% ;
+ 
+} 
+.last-part{
+    text-align: center;
+    color: white;
+}    
+footer{
+    text-align: center;
+    color: white;
+    margin: 0;
+}   
+.last-page{
+    background-color:#24262b;
+    margin: 0;
+    padding: 0;
+   background-size: cover;
+  
 }
 
+
+             
+            
 
 
