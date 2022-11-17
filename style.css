@@ -1,6 +1,6 @@
 body{
     font-family: 'PT Serif', serif;
-    
+    margin: 0%;
   
 }
 h1{
@@ -153,19 +153,23 @@ padding-left: 30%;
 .last-part{
     text-align: center;
     color: white;
+   
+    
 }    
 footer{
     text-align: center;
     color: white;
-    margin: 0;
+    padding-bottom:1%;
+    margin-bottom: 0%;
+  
+ 
 }   
 .last-page{
-    background-color:#24262b;
-    margin: 0;
-    padding: 0;
-   background-size: cover;
-  
+    background-color:#0B0D17;
+    margin-bottom: ;
+    border: 10px solid black;   
 }
+
 
 
              
